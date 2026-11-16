@@ -1,0 +1,13 @@
+source_row,ticket_id,created_at,language,country,channel,category,priority,resolution_hours,satisfaction_score,agent_id,rejection_reasons
+16,TCK-0022,2026-02-17,French,Belgium,email,Account,high,-4.0,3,AG-02,negative_resolution_hours
+39,TCK-0009,2026/04/28,Inglés,Canada, EMAIL,,Low,60.7,4,AG-02,missing_category
+44,TCK-0034,2026-05-30,français,Belgium,Email,shipping,low,N/A,4,AG-06,non_numeric_resolution_hours
+46,TCK-0071,2026-06-16,Spanish,Colombia,Chat,BILLING,low,20.5,three,AG-05,non_numeric_satisfaction_score
+65,TCK-0016,2026-01-18,FR,France,email,Technical,HIGH,14.0,1,AG-03,conflicting_ticket_id
+67,TCK-0078,2026-01-25,Francés,Belgium,CHAT ,refund??,low,9.6,5,AG-05,invalid_category
+69,TCK-0061,yesterday,English,Canada,CHAT ,delivery,low,57.2,5,AG-04,invalid_created_at
+96,TCK-0046,2026-01-05,Inglés,United Kingdom,live chat,account,Medium,50.0,7,AG-01,satisfaction_score_out_of_range
+104,TCK-0053,,FR,Belgium,live chat,Delivery,HIGH,28.5,5,AG-04,missing_created_at
+108,TCK-0013,2026-13-02, Español ,Argentina, EMAIL,account,Medium,58.2,4,AG-01,invalid_created_at
+112,TCK-0016,2026-01-18,FR,France,email,Technical,low,99.0,1,AG-03,conflicting_ticket_id
+113,TCK-0026,2026-03-26,Portuguese,Canada,email,account access,high,14.6,1,AG-02,invalid_language

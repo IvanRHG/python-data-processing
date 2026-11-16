@@ -1,0 +1,115 @@
+ticket_id,created_at,language,country,channel,category,priority,resolution_hours,satisfaction_score,agent_id
+TCK-0021,2026-03-17,fr,Canada,phone,Technical,medium,8.1,1,AG-06
+TCK-0077,2026-06-02,English,United Kingdom,phone,technical,high,66.3,2,AG-08
+TCK-0005,2026-05-15,Inglés,United Kingdom,chat,shipping,medium,55.3,1,AG-02
+TCK-0089,2026-03-29,es,Colombia,Chat,shipping,Low,24.9,2,AG-02
+TCK-0010,2026/03/10,FR,Belgium,CHAT ,billing,Low,66.0,1,AG-01
+TCK-0025,2026/06/24,French,Canada,chat,shipping,HIGH,31.7,1,AG-05
+TCK-0032,2026/05/02,FR,France,PHONE,account,Low,64.4,3,AG-07
+TCK-0048,2026-01-08,ES,Mexico,CHAT ,BILLING,HIGH,24.9,3,AG-06
+TCK-0002,2026-03-15,español,Spain,Chat,Billing,high,25.4,3,AG-07
+TCK-0057,2026-05-11,fr,Canada,E-mail,Billing,low,12.2,2,AG-02
+TCK-0075,2026-06-27,english ,United Kingdom,chat,technical,low,58.7,1,AG-08
+TCK-0109,2026-03-10,ES,Spain,phone,Billing,HIGH,59.3,1,AG-08
+TCK-0103,2026-06-12,en,United States, EMAIL,account,high,69.4,4,AG-03
+TCK-0006,2026-06-09,FR,France, EMAIL,shipping,Low,51.6,5,AG-05
+TCK-0022,2026-02-17,French,Belgium,email,Account,high,-4.0,3,AG-02
+TCK-0093,2026/04/16,Spanish,Argentina,E-mail,account,HIGH,59.5,5,AG-03
+TCK-0038,2026/01/28,es,Argentina,live chat,BILLING,high,46.8,3,AG-08
+TCK-0090,2026-03-30,es,Argentina,Chat,delivery,low,49.5,4,AG-02
+TCK-0080,2026-02-28,español,Spain,CHAT ,Billing,HIGH,67.7,3,AG-05
+TCK-0101,2026/04/23,Spanish,Argentina,telephone,BILLING,HIGH,60.2,4,AG-04
+TCK-0039,2026-01-31,english ,United Kingdom,E-mail,account,low,56.2,1,AG-08
+TCK-0035,2026-03-08,FR,Canada,telephone,tech support,high,26.0,4,AG-04
+TCK-0024,2026-04-27,english ,Canada,Phone,BILLING,Low,31.0,1,AG-06
+TCK-0037,2026/01/08,Spanish,Colombia,telephone,Billing,medium,38.5,5,AG-04
+TCK-0083,2026-05-21,French,Canada,PHONE,delivery,medium,36.9,1,AG-04
+TCK-0086,2026-04-20,Francés,Belgium,CHAT ,Technical,HIGH,62.3,1,AG-02
+TCK-0097,2026-06-24,English,United States,live chat,Delivery,HIGH,25.6,3,AG-08
+TCK-0050,2026-02-20,English,United States,phone,Delivery,low,52.4,5,AG-05
+TCK-0065,2026-01-19,Spanish,Mexico,telephone,Billing,medium,23.5,4,AG-04
+TCK-0027,2026-06-08, Español ,Spain,E-mail,technical,Low,41.8,3,AG-07
+TCK-0049,2026-05-03,fr,Belgium,CHAT ,account,low,34.9,3,AG-05
+TCK-0104,2026-03-24,es,Colombia,Phone,Account,Low,6.0,4,AG-02
+TCK-0054,2026-06-05,ES,Colombia,email,Technical,high,67.8,2,AG-03
+TCK-0036,2026-06-11,français,Canada,Phone,shipping,Medium,2.6,3,AG-03
+TCK-0040,2026-03-09,English,Canada,E-mail,Technical,HIGH,47.5,4,AG-07
+TCK-0020,2026-06-21,FR,Canada,Email,account,Medium,51.7,5,AG-04
+TCK-0107,2026-05-31,EN,United States,live chat,Technical,low,65.5,5,AG-03
+TCK-0009,2026/04/28,Inglés,Canada, EMAIL,,Low,60.7,4,AG-02
+TCK-0082,2026-06-27,ES,Argentina,Email,BILLING,high,46.6,4,AG-04
+TCK-0012,2026-03-22,ES,Mexico,PHONE,shipping,medium,69.0,5,AG-05
+TCK-0062,2026-04-27,Inglés,Canada,telephone,BILLING,low,33.5,3,AG-02
+TCK-0031,2026-02-26,Spanish,Mexico,E-mail,Delivery,medium,27.3,4,AG-08
+TCK-0034,2026-05-30,français,Belgium,Email,shipping,low,N/A,4,AG-06
+TCK-0073,2026-01-23,english ,United Kingdom,email,Delivery,HIGH,45.0,2,AG-04
+TCK-0071,2026-06-16,Spanish,Colombia,Chat,BILLING,low,20.5,three,AG-05
+TCK-0001,2026-03-23,ES,Argentina,PHONE,BILLING,Low,17.7,5,AG-02
+TCK-0085,2026-03-18,Francés,Belgium,E-mail,Account,Low,38.1,1,AG-07
+TCK-0030,2026-05-22,Spanish,Spain,phone,account access,low,,2,AG-08
+TCK-0051,2026-06-07,english ,Canada,telephone,Account,medium,6.1,5,AG-03
+TCK-0018,2026-03-20,english ,Canada, EMAIL,Account,Low,13.2,,AG-08
+TCK-0014,2026/04/10,Spanish,Colombia,email,account access,Low,23.9,3,AG-08
+TCK-0066,2026-03-03,en,Canada,Chat,shipping,medium,31.9,1,AG-08
+TCK-0015,2026-02-01,EN,United Kingdom,Chat,Technical,Medium,24.6,5,AG-04
+TCK-0028,2026-04-07,EN,United States,chat,tech support,HIGH,67.3,5,AG-07
+TCK-0091,2026-05-08,en,United States,CHAT ,account,Low,46.3,3,AG-04
+TCK-0058,2026-06-19,EN,United Kingdom, EMAIL,technical,high,11.8,4,AG-07
+TCK-0017,2026-05-16,FR,Belgium,Phone,Technical,high,30.9,4,AG-02
+TCK-0094,2026-04-18,Francés,Canada,telephone,Account,HIGH,61.4,3,AG-04
+TCK-0023,2026/04/16,es,Colombia,chat,delivery,low,22.7,1,AG-06
+TCK-0098,2026-04-03,Spanish,Colombia,email,Billing,Low,19.2,3,AG-05
+TCK-0042,2026-03-10,English,,E-mail,account,Medium,45.3,2,AG-06
+TCK-0059,2026-04-03,Inglés,United Kingdom,CHAT ,delivery,medium,53.3,1,AG-02
+TCK-0095,2026-06-01,French,Canada,chat,account access,medium,0.6,2,AG-06
+TCK-0016,2026-01-18,FR,France,email,Technical,HIGH,14.0,1,AG-03
+TCK-0076,2026-04-18,fr,Belgium,chat,account access,high,17.5,4,AG-04
+TCK-0078,2026-01-25,Francés,Belgium,CHAT ,refund??,low,9.6,5,AG-05
+TCK-0019,2026-01-31,en,United States,Phone,account,low,63.3,3,AG-07
+TCK-0061,yesterday,English,Canada,CHAT ,delivery,low,57.2,5,AG-04
+TCK-0099,2026-02-22,ES,Colombia,E-mail,tech support,Medium,33.1,5,AG-01
+TCK-0007,2026-04-13,français,Canada,Chat,Delivery,high,1.2,2,AG-08
+TCK-0060,2026-06-23,EN,United States, EMAIL,billing,Low,2.7,2,AG-05
+TCK-0056,2026-01-08,Francés,France,PHONE,account access,HIGH,29.6,3,AG-03
+TCK-0003,2026-05-12,fr,Belgium,telephone,Account,Low,10.6,5,AG-05
+TCK-0011,2026-05-29,EN,United States,email,tech support,high,48.3,3,AG-03
+TCK-0069,2026-02-13,français,Canada,email,billing,medium,4.2,2,AG-05
+TCK-0052,2026-05-16,Inglés,United States,chat,Billing,medium,15.5,5,AG-03
+TCK-0045,2026-06-29,français,Canada,live chat,delivery,low,54.6,1,AG-05
+TCK-0068,2026-03-22,French,Belgium,Chat,BILLING,low,40.7,2,AG-02
+TCK-0072,2026-06-15,Francés,France,Chat,Billing,low,39.2,2,AG-07
+TCK-0106,2026-01-19,FR,France,Chat,account,Medium,18.5,1,AG-07
+TCK-0100,2026-02-02,en,United Kingdom,chat,technical,low,71.9,4,AG-01
+TCK-0051,2026-06-07,english ,Canada,telephone,Account,medium,6.1,5,AG-03
+TCK-0047,2026-02-09,ES,Mexico,E-mail,delivery,Medium,30.3,5,AG-03
+TCK-0044,2026-01-25,english ,Canada,live chat,technical,Low,52.3,1,AG-05
+TCK-0084,2026-02-13,english ,Canada,PHONE,tech support,low,44.2,1,AG-06
+TCK-0110,2026-03-14,en,Canada,PHONE,billing,medium,47.3,5,AG-01
+TCK-0008,2026-05-06,français,Canada, EMAIL,Account,Medium,48.0,1,AG-05
+TCK-0055,2026-05-19,EN,United States,email,delivery,HIGH,11.5,5,AG-08
+TCK-0063,2026-03-17,en,United Kingdom,PHONE,BILLING,low,28.1,5,AG-08
+TCK-0102,2026-04-17, Español ,Argentina,chat,technical,Low,69.5,4,AG-08
+TCK-0105,2026-04-04, Español ,Mexico,Email,Account,high,7.1,5,AG-02
+TCK-0092,2026-01-28,EN,United Kingdom,E-mail,Billing,Low,56.7,2,AG-06
+TCK-0074,2026-05-24,Spanish,Mexico,CHAT ,delivery,low,25.1,2,AG-04
+TCK-0087,2026-02-25,español,Mexico,PHONE,shipping,medium,27.2,5,AG-02
+TCK-0046,2026-01-05,Inglés,United Kingdom,live chat,account,Medium,50.0,7,AG-01
+TCK-0006,2026-06-09,FR,France, EMAIL,shipping,Low,51.6,5,AG-05
+TCK-0029,2026-02-07,Inglés,Canada, EMAIL,Account,high,10.4,5,AG-02
+TCK-0079,2026/04/15, Español ,Spain,Email,Delivery,HIGH,45.2,4,AG-02
+TCK-0096,2026-03-23,French,Canada,PHONE,BILLING,Low,44.0,1,AG-06
+TCK-0070,2026-01-22,Inglés,United States, EMAIL,tech support,HIGH,3.0,4,AG-01
+TCK-0043,2026-05-24, Español ,Argentina,CHAT ,Account,low,39.8,3,AG-07
+TCK-0088,2026-01-30, Español ,Spain,email,Delivery,medium,23.5,1,AG-02
+TCK-0053,,FR,Belgium,live chat,Delivery,HIGH,28.5,5,AG-04
+TCK-0067,2026-04-08,FR,Canada,email,shipping,Low,56.6,3,AG-04
+TCK-0064,2026-05-03,FR,France,email,Account,low,12.5,3,AG-01
+TCK-0033,2026-06-13, Español ,Spain,Chat,account access,HIGH,7.7,1,AG-04
+TCK-0013,2026-13-02, Español ,Argentina, EMAIL,account,Medium,58.2,4,AG-01
+TCK-0091,2026-05-08,en,United States,CHAT ,account,Low,46.3,3,AG-04
+TCK-0108,2026-03-15,Francés,Canada,Phone,BILLING,high,34.4,1,AG-05
+TCK-0081,2026-06-09,EN,United States,chat,account,medium,71.2,3,AG-07
+TCK-0016,2026-01-18,FR,France,email,Technical,low,99.0,1,AG-03
+TCK-0026,2026-03-26,Portuguese,Canada,email,account access,high,14.6,1,AG-02
+TCK-0041,2026-02-15,English,Canada,CHAT ,tech support,Low,15.7,4,AG-03
+TCK-0004,2026-04-05,español,Argentina,chat,Billing,Medium,57.9,,AG-08
