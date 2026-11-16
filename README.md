@@ -134,14 +134,13 @@ Python 3 · pandas · pytest · Mermaid (diagram)
 - Validation rules are written for this one dataset. A new dataset needs its own `schema.py`.
 - Country names are only trimmed and title-cased, not checked against an official list.
 - Rejected rows are not corrected automatically. That is a deliberate choice, but it means someone has to review them.
-- Tested on Windows with Python 3.14 and pandas 3.1. Other versions listed in `requirements.txt` are expected to work but were not tested.
+- Tested locally on Windows (Python 3.14, pandas 3.1) and in GitHub Actions on Ubuntu (Python 3.10 and 3.12).
 
 ## Possible improvements
 
 - Move the rules to a configuration file (YAML) so they can change without editing code.
 - Add a data-contract library (for example, pandera) for schema validation.
 - Add a small chart to the report (tickets per week, satisfaction by channel).
-- Run the tests automatically with GitHub Actions on every push.
 
 ## License
 
