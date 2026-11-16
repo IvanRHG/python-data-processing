@@ -1,5 +1,7 @@
 # Python Data Processing — Support Ticket Cleaning Pipeline
 
+[![tests](https://github.com/IvanRHG/python-data-processing/actions/workflows/tests.yml/badge.svg)](https://github.com/IvanRHG/python-data-processing/actions/workflows/tests.yml)
+
 A small, reproducible Python workflow that takes a messy CSV export, finds its quality problems, and produces a clean dataset, a table of rejected rows with reasons, and a summary report.
 
 > **Project type:** personal, demonstrative project. All data is **synthetic** (generated from a fixed random seed). It does not describe any real company, customer, or ticket.
