@@ -96,6 +96,6 @@ def export(result: PipelineResult, summary: dict, output_dir: str | Path) -> lis
     }
     result.clean.to_csv(paths["clean"], index=False, encoding="utf-8", lineterminator="\n")
     result.rejected.to_csv(paths["rejected"], index=False, encoding="utf-8", lineterminator="\n")
-    paths["json"].write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    paths["md"].write_text(to_markdown(summary), encoding="utf-8")
+    paths["json"].write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    paths["md"].write_text(to_markdown(summary), encoding="utf-8", newline="\n")
     return list(paths.values())
